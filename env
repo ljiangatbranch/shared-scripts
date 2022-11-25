@@ -1,0 +1,6 @@
+# change name of this file to .env to apply it
+# replace the following <place_hoders> with true value
+
+# for Presto DB access
+USERNAME=<your.name@company.com>
+PASSWORD=<Your_p@sw0rd>
